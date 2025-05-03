@@ -3,4 +3,23 @@
 Analysis of manufacturing downtime and production efficiency for a soda bottling production line. The dataset contained operator performance data, product batch times, and downtime factors, providing key insights into process inefficiencies. Attempting to quantify line efficiency, pinpoint the primary causes of downtime, and assess operator performance to recommend data-driven improvements.
 
 ## Tech Stack Used
-<img src="[https://cdn.simpleicons.org/microsoftexcel/217346]([https://camo.githubusercontent.com/5a4db8ef77e726e7359f0ba98d10ce64ab327beaf0aea070de822e5ee761c734/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f6d6963726f736f66742d657863656c2d323031392e706e67](https://github.com/bettercallhamed/Manufacturing-Downtime-Analysis/blob/2385d5acbea2e0ca7be45a77df66644b827fbeb4/excel%20icon.png))" width="20" alt="Excel">
+![Image](https://github.com/user-attachments/assets/cc933bb4-0efd-420f-a467-5f42a97f72d4) ![Image](https://github.com/user-attachments/assets/0a4e0383-eb98-4955-8d01-d74081d9064c)
+
+## Requirements and KPIs
+The most and least productive operator
+The most repeated downtime failure
+Production bottlenecks
+downtime caused by matchine vs downtime caused by operator 
+Downtime by product
+Actual work time vs Batch work time (Operator)
+Actual work time vs Batch work time (Product)
+
+## Data Source
+[Manufacturing_Line_Productivity.xlsx](https://github.com/user-attachments/files/20024156/Manufacturing_Line_Productivity.xlsx)
+
+## Key Insights
+
+
+## Recommendations based on the Analysis
+
+
